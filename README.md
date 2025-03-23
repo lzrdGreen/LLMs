@@ -9,3 +9,5 @@ To view a specific notebook, please, replace `sft1.0.html` in the URL with the d
 
 Recently I saw a post on LinkedIn which reported that GRPOTrainer can be used for fine tuning on a dataset which, to my mind, was better suited for the usual Supervised Fine Tuning (SFT). I repreoduced 
 both: [GRPOonTS2](https://lzrdgreen.github.io/LLMs/GRPOonTS2.html) and [SFTonTS](https://lzrdgreen.github.io/LLMs/SFTonTS.html). It turned out that the conventional SFT training resulted in significanly better perplexity value. However, the idea was worth exploring!
+
+[GRPO fine-tuning of Gemma 3-1B-it](https://lzrdgreen.github.io/LLMs/GRPO_Gemma-3-1B.html), a tiny LLM, for improving its reasoning.
