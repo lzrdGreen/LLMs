@@ -14,3 +14,5 @@ both: [GRPOonTS2](https://lzrdgreen.github.io/LLMs/GRPOonTS2.html) and [SFTonTS]
 [GRPO fine-tuning of Gemma 3-1B-it](https://lzrdgreen.github.io/LLMs/GRPO_Gemma-3-1B.html), a tiny LLM, for improving its reasoning using GRPO on BBH 'causal_judgement' subset.
 
 [Supervised Fine-Tuning of Gemma 3-1B-it on Single Digit GSM8K](https://lzrdgreen.github.io/LLMs/Gemma3-1B-SFT-on-SinlgeDigit-GSM8K.html) achieved stunning 95% accuracy on 10 label classification.
+
+[LoRA on IMDB - various configurations](https://lzrdgreen.github.io/LLMs/LoRAonIMDB.html)
