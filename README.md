@@ -14,3 +14,5 @@ both: [GRPOonTS2](https://lzrdgreen.github.io/LLMs/GRPOonTS2.html) and [SFTonTS]
 [GRPO fine-tuning of Gemma 3-1B-it](https://lzrdgreen.github.io/LLMs/GRPO_Gemma-3-1B.html), a tiny LLM, for improving its reasoning using GRPO on BBH 'causal_judgement' subset.
 
 [LoRA on IMDB - various configurations](https://lzrdgreen.github.io/LLMs/LoRAonIMDB.html)
+
+[DDoRA on IMDB - various configurations](https://lzrdgreen.github.io/LLMs/DDoRAonIMDB.html)
