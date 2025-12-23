@@ -9,7 +9,7 @@ This repository contains Jupyter Notebooks related to LLMs.  The rendered notebo
 To view a specific notebook, please, replace `sft1.0.html` in the URL with the desired filename (e.g., `the_notebook_name.html`).  All rendered notebooks are available in this directory.
 For instance,
 
-[Reparameterised DoRA in Weight Space](Fine-Tuning of DistilBERT on IMDB with DoRA.html)
+[Reparameterised DoRA in Weight Space](https://lzrdgreen.github.io/LLMs/Fine-Tuning%20of%20DistilBERT%20on%20IMDB%20with%20DoRA.html)
 
 [GRPO fine-tuning of Gemma 3-1B-it](https://lzrdgreen.github.io/LLMs/GRPO_Gemma-3-1B.html), a tiny LLM, for improving its reasoning using GRPO on BBH 'causal_judgement' subset.
 
