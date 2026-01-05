@@ -2,7 +2,7 @@
 
 This repository contains Jupyter Notebooks related to LLMs.  The rendered notebooks can be viewed at:
 
-* [sft1.0](https://lzrdgreen.github.io/LLMs/sft1.0.html)
+* [QWen2.5-1.5B on UltraChat](https://lzrdgreen.github.io/LLMs/Qwen2.5-1.5B-on-UltraChat.html)
 * [SFT](https://lzrdgreen.github.io/LLMs/SFT.html)
 * [Adapters](https://lzrdgreen.github.io/LLMs/adapters.html)
 
